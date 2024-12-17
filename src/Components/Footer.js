@@ -16,30 +16,30 @@ function Footer(){
                 </div>
                 <div className="top2">
                     <p>Plan Events</p>
-                    <a href="">Create and Set Up</a>
+                    <a href="#">Create and Set Up</a>
                     <br/>
-                    <a href="">Sell Tickets</a>
+                    <a href="#">Sell Tickets</a>
                     <br/>
-                    <a href="">Online RSVP</a>
+                    <a href="#">Online RSVP</a>
                     <br/>
-                    <a href="">Online Events</a>
+                    <a href="#">Online Events</a>
                     <br/>                    
                 </div>
                 <div className="top2">
                     <p>Eventick</p>                  
-                    <a href="">About Us</a>
+                    <a href="#">About Us</a>
                     <br/>
-                    <a href="">Press</a>
+                    <a href="#">Press</a>
                     <br/>
-                    <a href="">Contact Us</a>
+                    <a href="#">Contact Us</a>
                     <br/>
-                    <a href="">Help Center</a>
+                    <a href="#">Help Center</a>
                     <br/>
-                    <a href="">How it Works</a>
+                    <a href="#">How it Works</a>
                     <br/>
-                    <a href="">Privacy</a>
+                    <a href="#">Privacy</a>
                     <br/>
-                    <a href="">Terms</a>
+                    <a href="#">Terms</a>
                     <br/>
                 </div>
                 <div className="top4">
@@ -49,9 +49,9 @@ function Footer(){
                         <form action="/" method="Get" >
                             <input className="form" type="text" name="email" id="email" placeholder="Enter your email address"></input>
                         </form>
-                        <a href="" className="subscription-btn" >Subscribe Now</a>
+                        <a href="#" className="subscription-btn" >Subscribe Now</a>
                     </div>
-                    <a href="" className="subscription-btn2" >Subscribe Now</a>
+                    <a href="#" className="subscription-btn2" >Subscribe Now</a>
                 </div>
            </div>
            <div className="footer-bottom">
