@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Beacon-Tek.github.io/Event-ticketing-app/static/css/main.90e7e0bf.css",
+    "main.js": "/Beacon-Tek.github.io/Event-ticketing-app/static/js/main.c991fe9d.js",
+    "static/js/453.6fd814b3.chunk.js": "/Beacon-Tek.github.io/Event-ticketing-app/static/js/453.6fd814b3.chunk.js",
+    "static/media/image.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/image.9eb7d199556a079dac4f.png",
+    "static/media/bg.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/bg.36deb0e40b2018c69d44.png",
+    "static/media/guys.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/guys.afecc7c684a8a8d045ac.png",
+    "static/media/box2.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/box2.f12d638ccd308d1a870d.png",
+    "static/media/box4.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/box4.08ea8ce54467f3408b3c.png",
+    "static/media/box3.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/box3.10c0a352d275d0241eb7.png",
+    "static/media/box1.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/box1.6bfb2c29f4475dae8da3.png",
+    "static/media/blog2.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/blog2.dad4b218411de784bf8d.png",
+    "static/media/box5.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/box5.64e79c4b6af663a4a11c.png",
+    "static/media/blog1.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/blog1.f304828bc190ce0bcfa0.png",
+    "static/media/blog3.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/blog3.e0749afb6f3d445af70d.png",
+    "static/media/box6.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/box6.6e145ef1d024844c13d2.png",
+    "static/media/CEvent.png": "/Beacon-Tek.github.io/Event-ticketing-app/static/media/CEvent.758828ed39af0e39bc37.png",
+    "index.html": "/Beacon-Tek.github.io/Event-ticketing-app/index.html",
+    "main.90e7e0bf.css.map": "/Beacon-Tek.github.io/Event-ticketing-app/static/css/main.90e7e0bf.css.map",
+    "main.c991fe9d.js.map": "/Beacon-Tek.github.io/Event-ticketing-app/static/js/main.c991fe9d.js.map",
+    "453.6fd814b3.chunk.js.map": "/Beacon-Tek.github.io/Event-ticketing-app/static/js/453.6fd814b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e7e0bf.css",
+    "static/js/main.c991fe9d.js"
+  ]
+}
